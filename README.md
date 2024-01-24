@@ -1,4 +1,7 @@
 1. Install all package
-  **npm install**
+
+ ### **npm install**
+  
 3. Run project
-  **npm start**
+
+ ### **npm start**
